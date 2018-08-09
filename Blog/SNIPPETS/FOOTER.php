@@ -2,7 +2,7 @@
       <hr />
 
       <div class="container">
-        <span>Awesome Footer 2017</span>
+        <span>Awesome Footer 2018</span>
       </div>
     </footer>
 
